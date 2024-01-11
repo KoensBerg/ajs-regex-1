@@ -4,6 +4,8 @@
 
 ДЗ выполнено на основе шаблона, включающего в себя WebPack, Babel, ESLint, JEST, AppVeyor, Husky.
 
+Исходное задание — [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8/regex).
+
 Команды для терминала:
 - `npm start`: "webpack serve --mode development"
 - `npm run build`: "webpack --mode production"
